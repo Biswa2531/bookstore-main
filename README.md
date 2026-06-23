@@ -36,7 +36,6 @@ JavaScript	Client-side Interactivity
 PHP	Server-side Development
 MySQL	Database Management
 XAMPP/WAMP	Local Server Environment
-📂 Project Structure
 bookstore-main/
 │
 ├── admin_page.php
