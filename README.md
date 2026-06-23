@@ -38,6 +38,7 @@ MySQL	Database Management
 XAMPP/WAMP	Local Server Environment
 bookstore-main/
 <img width="549" height="636" alt="image" src="https://github.com/user-attachments/assets/b890ddc3-052a-435e-a896-b6bde59e831e" />
+
 ⚙️ Installation Guide
 Prerequisites
 PHP 7.x or above
