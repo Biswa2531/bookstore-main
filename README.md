@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # bookstore
 
 Developed using HTML, CSS, JavaScript, and PHP technologies</br>
@@ -12,3 +13,7 @@ Features : </br>
 </ul>
 </br>
 
+=======
+# bookstore-main
+E-Book store project
+>>>>>>> 1ed1d600f36ab4b5b2613b4006119f719443c85d
