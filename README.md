@@ -93,47 +93,44 @@ from XAMPP Control Panel.
 Open browser:
 
 http://localhost/bookstore-main/
-📸 Screens
-User Module
-Home Page
-Shop Page
-Cart Page
-Checkout Page
-Orders Page
-Contact Page
-Admin Module
-Dashboard
-Product Management
-Order Management
-User Management
-Message Management
-🔒 Security Features
-Login Authentication
-Session Management
-Role-Based Access Control
-Form Validation
-Protected Admin Pages
-🎯 Learning Outcomes
+
 
 This project demonstrates:
 
 PHP CRUD Operations
+
 MySQL Database Integration
+
 Session Handling
+
 User Authentication
+
 E-Commerce Workflow
+
 Shopping Cart Implementation
+
 Order Management System
+
 Full Stack Web Development Concepts
+
 🔮 Future Enhancements
+
 Online Payment Gateway Integration
+
 Book Reviews and Ratings
+
 Wishlist Functionality
+
 Email Notifications
+
 PDF Invoice Generation
+
 Advanced Search Filters
+
 Mobile Responsive Design
+
 Recommendation System
+
 👨‍💻 Author
 
 Biswajit Rout
