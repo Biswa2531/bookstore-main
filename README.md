@@ -46,21 +46,26 @@ MySQL
 XAMPP/WAMP Server
 Web Browser
 Steps
+
 1. Clone the Repository
 git clone https://github.com/your-username/bookstore-management-system.git
+
 2. Move Project Folder
 
 Copy the project folder into:
 
 xampp/htdocs/
+
 3. Create Database
 
 Open phpMyAdmin and create a database:
 
 CREATE DATABASE bookstore;
+
 4. Import Database
 
 Import the provided SQL file (if available).
+
 
 5. Configure Database Connection
 
@@ -72,6 +77,7 @@ $conn = mysqli_connect(
     '',
     'bookstore'
 );
+
 6. Start Server
 
 Start:
@@ -80,6 +86,7 @@ Apache
 MySQL
 
 from XAMPP Control Panel.
+
 
 7. Run Application
 
