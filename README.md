@@ -37,38 +37,7 @@ PHP	Server-side Development
 MySQL	Database Management
 XAMPP/WAMP	Local Server Environment
 bookstore-main/
-│
-├── admin_page.php
-├── admin_products.php
-├── admin_orders.php
-├── admin_users.php
-├── admin_messages.php
-│
-├── home.php
-├── shop.php
-├── cart.php
-├── checkout.php
-├── orders.php
-├── search_page.php
-│
-├── login.php
-├── register.php
-├── logout.php
-│
-├── contact.php
-├── about.php
-├── blog.php
-│
-├── config.php
-│
-├── uploaded_img/
-│
-├── style.css
-├── home.css
-├── login.css
-├── admin.css
-│
-└── script.js
+<img width="549" height="636" alt="image" src="https://github.com/user-attachments/assets/b890ddc3-052a-435e-a896-b6bde59e831e" />
 ⚙️ Installation Guide
 Prerequisites
 PHP 7.x or above
